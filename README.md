@@ -1,7 +1,7 @@
 # Deploy_Web_Application
 
 # .github/workflows/ci.yml 
-  Is a credentials to login into Heroku account, with api key, and represets idea of CI/CD pipeline
+  Is a credentials to login into Heroku account, with api key, and represents an idea of CI/CD pipeline
 
 # templates/templates/form.html 
   Is a html form, with credential fields - username and password. 
